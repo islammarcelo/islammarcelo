@@ -2,8 +2,10 @@
 
 
 ## 🙋‍♂️ About Me:
-
-
+- 🔭 I’m currently working on mobile development technologies like android and flutter.
+- 🌱 I’m currently learning backend development using Spring Boot framework.
+- ⚡ I’m currently solving algorithms and data structures problems on leetcode site.
+- 💪🏼 Future Goals: learn machine learning - Never stop creating new ideas.
 <!--
 **islammarcelo/islammarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
