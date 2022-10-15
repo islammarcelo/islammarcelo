@@ -21,7 +21,7 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a> 
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
 
-<!--     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/344/nodejs.png" alt="Nodejs" width="50" height="50"/> </a>  -->
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/344/nodejs.png" alt="Nodejs" width="50" height="50"/> </a> 
    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/344/python.png" alt="Python" width="50" height="50"/> </a>
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/kotlin.png" alt="Kotlin" width="50" height="50"/> </a>
   
