@@ -7,6 +7,8 @@
 - ⚡ I’m currently solving algorithms and data structures problems on leetcode site.
 - 💪🏼 Future Goals: learn machine learning - Never stop creating new ideas.
 
+
+## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="50" height="50"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="flutter" width="50" height="50"/> </a> 
