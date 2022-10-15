@@ -29,6 +29,10 @@
 ## 💡 Skills:
 OOP, SOLID principles, Design Pattern, REST, SQLite, Room, Jetpack Compose, Retrofit, Bloc, MVVM,MVP, MVC, Dagger, Coroutine
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=islammarcelo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islammarcelo&layout=compact&theme=buefy&hide_border=true"/> |
+| ------------- | ------------- |
+
 <!--
 **islammarcelo/islammarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
