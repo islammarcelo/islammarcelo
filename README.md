@@ -25,7 +25,7 @@
    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/344/python.png" alt="Python" width="50" height="50"/> </a>
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/kotlin.png" alt="Kotlin" width="50" height="50"/> </a>
 </p>
-### 💡 Skills
+### 💡 Skills:
 OOP, SOLID principles, Design Pattern, REST, SQLite, Room, Jetpack Compose, Retrofit, Bloc, MVVM,MVP, MVC, Dagger, Coroutine
 
 <!--
