@@ -2,8 +2,7 @@
 
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working on mobile development technologies like android and flutter.
-- 🌱 I’m currently learning backend development using Spring Boot framework.
+- 🔭 I’m currently working on web development technologies like spring boot and react js.
 - ⚡ I’m currently solving algorithms and data structures problems on leetcode site.
 - 💪🏼 Future Goals: learn machine learning - Never stop creating new ideas.
 
